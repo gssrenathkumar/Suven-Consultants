@@ -43,7 +43,7 @@
 
 <p>Here are some examples of the handwritten digits recognized by the model:</p>
 
-<img src="digits" alt="Example 1">
+<img src="digits.png" alt="Example 1">
 
 <img src="digits1.png" alt="Example 2">
 
