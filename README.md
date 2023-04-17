@@ -43,9 +43,9 @@
 
 <p>Here are some examples of the handwritten digits recognized by the model:</p>
 
-<img src="digit" alt="Example 1">
+<img src="digits" alt="Example 1">
 
-<img src="digit1.png" alt="Example 2">
+<img src="digits1.png" alt="Example 2">
 
 <h2>Conclusion</h2>
 
